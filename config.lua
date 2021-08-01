@@ -7,7 +7,7 @@ Config = {
     Items = {'wood'},
     Sell = vector3(1561.5167236328,2181.9497070313,78.876251220703),
     Objects = {
-        ['pickaxe'] = 'prop_tool_fireaxe',
+        ['hatchet'] = 'prop_tool_fireaxe',
     },
     MiningPositions = {
         {coords = vector3(-577.79534912109,5427.556640625,59.053035736084), heading = 115.29},
